@@ -9,6 +9,7 @@ if you are using __BORLAND__ as compiler you are fine, if not and you dont have 
 __DON'T FORGET TO INCLUDE WINDOWS HEADER__
 
 '''
+javascript
 #include <windows.h>
 //GOTOXY
 void gotoxy(int line, int column)
