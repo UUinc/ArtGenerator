@@ -1,15 +1,14 @@
 # ArtGenerator
-let's try make art using code.
+let's try make _art_ using __code__ :computer:
 
-First of all this code is just for fun purpose, I wanted to make some art using code so I ended up making weird shapes, take a look at the picture (RedBluePortals.jpg).
+First of all this code is just for fun purpose, I wanted to make some art using code so I ended up making weird shapes, take a look at the picture below.
 ![picture alt](https://raw.githubusercontent.com/UUinc/ArtGenerator/main/RedBluePortals.jpg "RedBluePortals")
 
 if you are using __BORLAND__ as compiler you are fine, if not and you dont have _gotoxy(), wherex(), wherey(), textcolor(), delay()_ functions here how you can create them yourself :
 
 __DON'T FORGET TO INCLUDE WINDOWS HEADER__
 
-'''
-javascript
+```
 #include <windows.h>
 //GOTOXY
 void gotoxy(int line, int column)
@@ -64,7 +63,7 @@ void delay (int ms)
 {
     Sleep(ms);
 }
-'''
+```
 
 if you have any question feel free to ask :smile:
 ### Contacts
