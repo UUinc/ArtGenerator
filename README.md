@@ -6,7 +6,7 @@ First of all this code is just for fun purpose, I wanted to make some art using 
 
 if you are using __BORLAND__ as compiler you are fine, if not and you dont have _gotoxy(), wherex(), wherey(), textcolor(), delay()_ functions here how you can create them yourself :
 
-__DON'T FORGET INCLUDING WINDOWS HEADER__
+__DON'T FORGET TO INCLUDE WINDOWS HEADER__
 
 '''
 #include <windows.h>
