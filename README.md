@@ -67,5 +67,5 @@ void delay (int ms)
 
 if you have any question feel free to ask :smile:
 ### Contacts
-gmail : uu.soft.inc@gmail.com
-[twitter](https://twitter.com/yahya_lz)
+* gmail : uu.soft.inc@gmail.com
+* [twitter](https://twitter.com/yahya_lz)
