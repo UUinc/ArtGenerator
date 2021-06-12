@@ -2,11 +2,12 @@
 let's try make art using code.
 
 First of all this code is just for fun purpose, I wanted to make some art using code so ended up making weird shapes, take a look at the picture (RedBluePortals.jpg).
+![picture alt](https://raw.githubusercontent.com/UUinc/ArtGenerator/main/RedBluePortals.jpg "RedBluePortals")
 
 if you are using BORLAND as compiler you are fine, if not and you dont have gotoxy(), wherex(), wherey(), textcolor(), delay() functions here how you can create them yourself :
 
 DON'T FORGET INCLUDING WINDOWS HEADER
-#include <windows.h>
+'#include <windows.h>
 //GOTOXY
 void gotoxy(int line, int column)
 {
@@ -59,8 +60,9 @@ void textcolor (int color)
 void delay (int ms)
 {
     Sleep(ms);
-}
+}'
 
 if you have any question feel free to ask
+### Contacts
 gmail : uu.soft.inc@gmail.com
-twitter : https://twitter.com/yahya_lz
+[twitter](https://twitter.com/yahya_lz)
