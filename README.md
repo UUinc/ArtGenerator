@@ -1,4 +1,4 @@
-# ArtGenerator
+# Art Generator
 let's try make _art_ using __code__ :computer:
 
 First of all this code is just for fun purpose, I wanted to make some art using code so I ended up making weird shapes, take a look at the picture below.
@@ -67,5 +67,5 @@ void delay (int ms)
 
 if you have any question feel free to ask :smile:
 ### Contacts
-* gmail : uu.soft.inc@gmail.com
+* uu.soft.inc@gmail.com
 * [twitter](https://twitter.com/yahya_lz)
